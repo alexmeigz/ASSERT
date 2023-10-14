@@ -1,0 +1,9 @@
+black==23.3.0
+fschat==0.2.15
+isort==5.11.5
+numpy==1.25.0
+python-dotenv==1.0.0
+openai==0.27.8
+scipy==1.10.1
+torch==2.0.1
+transformers==4.28.1
