@@ -3,7 +3,7 @@
 Paper Link: <INSERT LINK HERE>
 Authors: Alex Mei*, Sharon Levy*, William Yang Wang
 
-<INSERT FIGURE HERE>
+<img width="714" src="https://github.com/alexmeigz/ASSERT/assets/34776716/cd8e76be-5184-4c0b-b705-7b12266c7faa">
 
 ## Setup
 - This project is based on `python v3.11.4` and `pip v23.1.2`
