@@ -1,6 +1,6 @@
 # ASSERT
 ## ASSERT: Automated Safety Scenario Red Teaming for Evaluating the Robustness of Large Language Models
-Paper Link: <INSERT LINK HERE>
+Paper Link: https://arxiv.org/abs/2310.09624
 Authors: Alex Mei*, Sharon Levy*, William Yang Wang
 
 <img width="714" src="https://github.com/alexmeigz/ASSERT/assets/34776716/cd8e76be-5184-4c0b-b705-7b12266c7faa">
@@ -51,4 +51,14 @@ Add a `.env` file to the root of the project with the following variables:
 - Choose the pipeline you want to run and run the corresponding python file (check to make sure the correct parameters are set first.)
 
 ## Attribution
-<INSERT ATTRIBUTION LINK>
+When using resources based on our project, please cite the following paper, to appear in EMNLP 2023:
+```
+@misc{mei2023assert,
+      title={ASSERT: Automated Safety Scenario Red Teaming for Evaluating the Robustness of Large Language Models}, 
+      author={Alex Mei and Sharon Levy and William Yang Wang},
+      year={2023},
+      eprint={2310.09624},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
