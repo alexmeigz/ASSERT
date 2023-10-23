@@ -1,6 +1,6 @@
 # ASSERT
 ## ASSERT: Automated Safety Scenario Red Teaming for Evaluating the Robustness of Large Language Models
-Paper Link: https://arxiv.org/abs/2310.09624
+Paper Link: https://arxiv.org/abs/2310.09624 \\
 Authors: Alex Mei*, Sharon Levy*, William Yang Wang
 
 <img width="714" src="https://github.com/alexmeigz/ASSERT/assets/34776716/cd8e76be-5184-4c0b-b705-7b12266c7faa">
