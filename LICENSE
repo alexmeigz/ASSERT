@@ -1,0 +1,76 @@
+# ASSERT Research License
+**Version 1.0 — Citation Required**
+
+Copyright (c) 2026 Alex Mei
+
+## 1. Grant of Permission
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of the software, original research materials, and associated documentation contained in this repository (the "Materials"), to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Materials, including for academic, research, educational, and commercial purposes, subject to the conditions below.
+
+This license covers only Materials for which the copyright holders have authority to grant permission. Third-party software, datasets, models, and other separately licensed materials remain subject to their respective licenses.
+
+## 2. Preservation of Notices
+
+The above copyright notice and this complete license must be included in all distributed copies or substantial portions of the Materials, including modified versions.
+
+## 3. Mandatory Academic Attribution
+
+As an express condition of the permissions granted under this license, any person or organization that materially uses the Materials, modified versions thereof, or results generated through their use in publicly disseminated research must cite **both** the original research paper and the GitHub repository.
+
+This requirement applies to research papers, preprints, theses, technical reports, benchmark evaluations, conference presentations, and other publicly distributed scholarly or technical research outputs that materially rely on the Materials.
+
+The required citations are:
+
+**A. Original Research Paper**
+
+Mei, Alex, Sharon Levy, and William Yang Wang. (2023). "ASSERT: Automated Safety Scenario Red Teaming for Evaluating the Robustness of Large Language Models." *Findings of the Association for Computational Linguistics: EMNLP 2023*, pp. 5831–5847.
+
+DOI: https://doi.org/10.18653/v1/2023.findings-emnlp.388
+
+**B. Software Repository**
+
+ASSERT: Automated Safety Scenario Red Teaming — Official Research Implementation.
+
+https://github.com/alexmeigz/ASSERT
+
+Both citations must appear in the references, methodology, acknowledgments, or another reasonably prominent attribution section of the published work. Where a bibliography is provided, the research paper must receive a formal bibliographic citation, and the software repository must be separately identified by name and URL.
+
+## 4. Redistribution and Derivative Works
+
+Any person distributing the Materials or substantial portions thereof, including modified versions, must:
+
+(a) Preserve the original copyright and license notices.
+
+(b) Include attribution to both the original research paper and the GitHub repository in the distributed project's documentation, README, or equivalent attribution file.
+
+(c) Preserve this license and its attribution conditions for the original Materials incorporated into the distributed work.
+
+Additional license terms may apply to independently authored modifications, provided they do not remove or contradict the obligations applicable to the original Materials.
+
+Private use that does not involve public dissemination or redistribution does not independently require a formal academic citation.
+
+## 5. Disclaimer of Warranty
+
+THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, ACCURACY, RELIABILITY, SECURITY, OR FITNESS FOR A PARTICULAR PURPOSE.
+
+THE AUTHORS AND COPYRIGHT HOLDERS MAKE NO GUARANTEE REGARDING THE CORRECTNESS, COMPLETENESS, PERFORMANCE, OR SAFETY OF THE MATERIALS OR OF ANY RESULTS OBTAINED THROUGH THEIR USE.
+
+## 6. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE AUTHORS, CONTRIBUTORS, OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER ARISING IN AN ACTION OF CONTRACT, TORT, NEGLIGENCE, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE MATERIALS, THEIR USE, THEIR PERFORMANCE, OR OTHER DEALINGS IN THE MATERIALS.
+
+THIS INCLUDES, WITHOUT LIMITATION, DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, LOSS OF DATA, LOSS OF PROFITS, AND OTHER FINANCIAL OR NON-FINANCIAL LOSSES.
+
+## 7. Compliance
+
+The permissions granted by this license are conditional upon compliance with Sections 2, 3, and 4.
+
+If a licensee fails to comply, the permissions granted by this license terminate, subject to applicable law. Permissions are reinstated upon full correction of the violation within 30 days of written notification from a copyright holder.
+
+Where an already published research work cannot reasonably be amended, a publicly accessible correction identifying both required citations may be accepted as a cure.
+
+## 8. Reservation of Rights
+
+This license grants no rights to trademarks, institutional endorsements, or intellectual property owned by third parties.
+
+All rights not expressly granted are reserved by their respective holders.
