@@ -50,8 +50,16 @@ Add a `.env` file to the root of the project with the following variables:
 - Activate venv with `source .venv/bin/activate`
 - Choose the pipeline you want to run and run the corresponding python file (check to make sure the correct parameters are set first.)
 
-## Attribution
-When using resources based on our project, please cite the following paper, to appear in EMNLP 2023:
+## Attribution and License
+
+This project is distributed under the **ASSERT Research License v1.0 (Citation Required)**.
+
+Use, modification, and redistribution are permitted free of charge, subject to the terms in [LICENSE](LICENSE).
+
+**Academic users are required to cite both the original research paper and this GitHub repository** when publishing research that materially uses these resources.
+
+The software is provided "AS IS", without warranties or liability as specified in the license.
+
 ```
 @misc{mei2023assert,
       title={ASSERT: Automated Safety Scenario Red Teaming for Evaluating the Robustness of Large Language Models}, 
