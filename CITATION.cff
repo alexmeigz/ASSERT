@@ -1,0 +1,37 @@
+
+cff-version: 1.2.0
+
+message: "If you use ASSERT in your research, please cite BOTH the EMNLP 2023 paper and the GitHub repository: https://github.com/alexmeigz/ASSERT"
+
+title: "ASSERT: Automated Safety Scenario Red Teaming"
+type: software
+
+authors:
+  - family-names: Mei
+    given-names: Alex
+  - family-names: Levy
+    given-names: Sharon
+  - family-names: Wang
+    given-names: "William Yang"
+
+url: "https://github.com/alexmeigz/ASSERT"
+repository-code: "https://github.com/alexmeigz/ASSERT"
+
+preferred-citation:
+  type: conference-paper
+  title: "ASSERT: Automated Safety Scenario Red Teaming for Evaluating the Robustness of Large Language Models"
+  authors:
+    - family-names: Mei
+      given-names: Alex
+    - family-names: Levy
+      given-names: Sharon
+    - family-names: Wang
+      given-names: William
+  collection-title: "Findings of the Association for Computational Linguistics: EMNLP 2023"
+  publisher: "Association for Computational Linguistics"
+  year: 2023
+  month: 12
+  start: 5831
+  end: 5847
+  doi: "10.18653/v1/2023.findings-emnlp.388"
+  url: "https://aclanthology.org/2023.findings-emnlp.388/"
